@@ -1,4 +1,4 @@
-# Wave/IGE Full Stack
+# Full Stack Interview
 ## About this Repository
 This repository is initially a blank application stack consisting of a
 [NestJS](https://docs.nestjs.com/) backend and
