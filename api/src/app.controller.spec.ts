@@ -18,5 +18,8 @@ describe('AppController', () => {
     it('should return "Hello World!"', () => {
       expect(appController.getHello()).toBe('Hello World!');
     });
+    it('should return 5', () => {
+      expect(appController.getMissingNumber('[1,2,3,4,6,7,8]')).toBe(5);
+    });
   });
 });
